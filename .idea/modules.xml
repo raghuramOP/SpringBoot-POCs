@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot_POCs.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot_POCs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumingRest/consumingRest.iml" filepath="$PROJECT_DIR$/consumingRest/consumingRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restService/restservice.iml" filepath="$PROJECT_DIR$/restService/restservice.iml" />
+    </modules>
+  </component>
+</project>
